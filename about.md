@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /index.html
 ---
 
-Some information about you!
+<img style="float:right; padding-left:10px" src="images/self.jpeg" width="220" height="220">
 
-### More Information
+I am a PhD student at Shanghai Jiao Tong University, advised by [Dr. Chaochao Lu](https://causallu.com/) and jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
-A place to include any other types of information that you'd like to include about yourself.
+I study causal reasoning in language models.
 
-### Contact me
+# Publications
 
-[email@domain.com](mailto:email@domain.com)
+Under construction ...
+
+# Contact
+
+[ezzh2407 at gmail dot com](ezzh2407@gmail.com)

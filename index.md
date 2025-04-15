@@ -10,7 +10,7 @@ I am a PhD student at Shanghai Innovation Institute, co-trained at [Shanghai AI 
 
 I am honored to be advised by [Dr. Chaochao Lu](https://causallu.com/).
 
-I study **causal reasoning** and **language models**.
+I study causal reasoning and language models.
 
 In addition to my research in artificial intelligence, I am also pursuing a **second** doctorate in surgery (MD) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 

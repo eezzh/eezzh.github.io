@@ -10,14 +10,11 @@ I am a PhD student at Shanghai Innovation Institute, advised by [Dr. Chaochao Lu
 
 I am jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
-I study causal reasoning and language models.
-
-I am also pursuing a **second** doctorate in surgery (MD) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and willing to collaborate in the field of medical AI.
+I study causal reasoning.
 
 # Selected work
 
-Under construction ...
+ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search
+[[homepage]](https://opencausalab.github.io/ARise/)
 
-# Contact me
 
-ezzh2407 at gmail dot com

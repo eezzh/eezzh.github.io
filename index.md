@@ -14,7 +14,10 @@ I study causal reasoning.
 
 # Selected work
 
-ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search
-[[homepage]](https://opencausalab.github.io/ARise/)
+- **ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search** <br>
+  Yize Zhang\*, Tianshu Wang\*, Sirui Chen, Kun Wang, Xingyu Zeng, Hongyu Lin, Xianpei Han, Le Sun, Chaochao Lu <br>
+    [paper](https://arxiv.org/abs/2504.10893) |
+    [repo](https://github.com/OpenCausaLab/ARise) |
+    [project](https://opencausalab.github.io/ARise)
 
 

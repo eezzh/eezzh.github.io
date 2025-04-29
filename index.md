@@ -12,7 +12,7 @@ I am jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
 I study language agent.
 
-# Selected work
+# Paper
 
 - **ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search** <br>
   Yize Zhang\*, Tianshu Wang\*, Sirui Chen, Kun Wang, Xingyu Zeng, Chaochao Lu <br>

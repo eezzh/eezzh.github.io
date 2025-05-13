@@ -10,7 +10,7 @@ I am a PhD student at Shanghai Innovation Institute, advised by [Dr. Chaochao Lu
 
 I am jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
-I study language agent.
+I study multimodality and causality.
 
 # Paper
 

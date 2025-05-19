@@ -16,6 +16,7 @@ I study multimodality and causality.
 
 - **ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search** <br>
   Yize Zhang\*, Tianshu Wang\*, Sirui Chen, Kun Wang, Xingyu Zeng, Chaochao Lu <br>
+  ACL 2025 <br>
     [paper](https://arxiv.org/abs/2504.10893) |
     [repo](https://github.com/OpenCausaLab/ARise) |
     [project](https://opencausalab.github.io/ARise)

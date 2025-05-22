@@ -10,7 +10,7 @@ I am a PhD student at Shanghai Innovation Institute, advised by [Dr. Chaochao Lu
 
 I am jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
-I study multimodality and causality.
+I study LLMs and MLLMs.
 
 # Paper
 

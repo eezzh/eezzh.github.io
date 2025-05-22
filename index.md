@@ -8,9 +8,9 @@ permalink: /index.html
 
 I am a PhD student at Shanghai Innovation Institute, advised by [Dr. Chaochao Lu](https://causallu.com/).
 
-I am jointly trained at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+I am jointly trained at Shanghai AI Laboratory.
 
-I study LLMs and MLLMs.
+I study multimodal understanding and reasoning.
 
 # Paper
 

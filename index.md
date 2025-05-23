@@ -10,7 +10,7 @@ I am a PhD student at Shanghai Innovation Institute, advised by [Dr. Chaochao Lu
 
 I am jointly trained at Shanghai AI Laboratory.
 
-I study multimodal understanding and reasoning.
+I study multimodal learning.
 
 # Paper
 

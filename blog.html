@@ -1,27 +1,18 @@
 ---
 layout: default
-title: Blog
 ---
 
-<h1>Blog</h1>
-
-<ul class="posts">
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <article class="post">
-        <header>
-          <time datetime="{{ post.date }}">{{ post.date | date: "%m.%d.%Y" }}</time>
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        </header>
+    <article class="post">
 
-        <div class="entry">
-          {{ post.content | truncatewords:85}}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-          <p class="read-more">
-            <a href="{{ post.url }}">Read more</a>
-          </p>
-        </div>
-      </article>
-    </li>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
-</ul>
+</div>

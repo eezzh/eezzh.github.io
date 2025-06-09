@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:left; padding-left:10px" src="images/self2.jpeg" width="210" height="220">
+<img style="float:right; padding-left:10px" src="images/self2.jpeg" width="210" height="220">
 
 I am a PhD student at Shanghai Innovation Institute, supervised by [Dr. Chaochao Lu](https://causallu.com/).
 

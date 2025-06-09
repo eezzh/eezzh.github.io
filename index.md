@@ -22,3 +22,10 @@ I study multimodal learning, language models, and causal inference.
     [project](https://opencausalab.github.io/ARise)
 
 
+# Contact
+
+Email: ezzh2407 at gmail dot com
+
+WeChat: ezzh2407
+
+RedNote: 632864232

@@ -10,7 +10,7 @@ I am a PhD student at Shanghai Innovation Institute, supervised by [Dr. Chaochao
 
 I am jointly trained at Shanghai AI Lab.
 
-I study Causal Agents.
+I study causal agents.
 
 # Paper
 

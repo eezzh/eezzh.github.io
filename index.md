@@ -26,4 +26,3 @@ I study causal agents.
 
 - Email: ezzh2407 at gmail dot com
 - WeChat: ezzh2407
-- RedNote: 632864232

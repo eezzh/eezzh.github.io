@@ -19,6 +19,10 @@ I study causal agents.
     [repo](https://github.com/OpenCausaLab/ARise) |
     [project](https://opencausalab.github.io/ARise)
 
+# CV
+
+- [View CV (English)](/cv/) | [Download PDF](/assets/cv.pdf)  
+- [View CV (中文)](/cv_zh/) | [Download PDF](/assets/cv_zh.pdf)
 
 # Contact
 

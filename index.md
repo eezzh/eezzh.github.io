@@ -21,10 +21,8 @@ I study causal agents.
 
 # CV
 
-- [View CV (English)](/cv/) • 
-  [Download PDF](/assets/cv.pdf)  
-- [View CV (中文)](/cv_zh/) •  
-  [Download PDF](/assets/cv_zh.pdf)
+- [View CV (English)](/cv/) • [Download PDF](/assets/cv.pdf)  
+- [View CV (中文)](/cv_zh/) • [Download PDF](/assets/cv_zh.pdf)
 
 # Contact
 

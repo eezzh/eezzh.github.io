@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-<img style="float:right" src="images/self3.jpeg" width="220" height="220">
+<img style="float:right" src="images/self3.jpg" width="220" height="220">
 
 I am a PhD student at [SII](https://www.sii.edu.cn/), supervised by [Dr. Chaochao Lu](https://causallu.com/).
 

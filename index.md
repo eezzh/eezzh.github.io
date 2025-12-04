@@ -8,12 +8,13 @@ permalink: /index.html
 
 I am a PhD student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai Innovation Institute](https://www.sii.edu.cn/), supervised by [Dr. Chaochao Lu](https://causallu.com/).
 
-I study language models.
+I study methods for training and deploying agents in non-stationar environments.
 
 # Paper
 
 - **CauSight: Learning to Supersense for Visual Causal Discovery** <br>
   Yize Zhang\*, Meiqi Chen\*, Sirui Chen\*, Bo Peng\*, Yanxi Zhang, Tianyu Li, Chaochao Lu <br>
+  Under review <br>
     [paper](https://arxiv.org/abs/2512.01827) |
     [repo](https://github.com/OpenCausaLab/CauSight) |
     [model](https://huggingface.co/OpenCausaLab/CauSight) |

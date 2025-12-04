@@ -8,7 +8,7 @@ permalink: /index.html
 
 I am a PhD student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Shanghai Innovation Institute](https://www.sii.edu.cn/), supervised by [Dr. Chaochao Lu](https://causallu.com/).
 
-I study methods for training and deploying agents in non-stationar environments.
+I study methods for training and deploying agents in non-stationary environments.
 
 # Paper
 
